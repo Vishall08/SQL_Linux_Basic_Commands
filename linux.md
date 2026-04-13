@@ -1,1 +1,1 @@
-"Basic Linux Commands" 
+"ls - to see list , cd - to change directory, mkdir- create new directory" 
